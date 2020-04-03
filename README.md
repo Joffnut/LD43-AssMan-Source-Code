@@ -1,1 +1,1 @@
-# LD43 AssMan Source Code
+# LD43 Source Code
